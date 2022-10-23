@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "helpdesk-app",
+    "slug": "helpdesk-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
